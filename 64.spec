@@ -1,6 +1,6 @@
-LAGE = 64-Matrix
-UNEND = 64
-HYBRID = 64/81
-A81 = A81-Index
-MATRIX = 64-Matrix-Achse
-IDENTITY = Unend-Identität
+TMP = 64‑TMP
+LAGE = 64‑LAGE
+AXIS = 64‑AXIS
+PIPE = 64‑PIPE
+FORM = Octaeder / Unend
+FREQ = 4e / 12e / 6e / 6d
